@@ -1,0 +1,3448 @@
+{
+	"id": "88dc6dd6-890a-404a-b2ec-bfcc55e6e33c",
+	"name": "3_3_API",
+	"timestamp": "2021-10-20T19:56:03.558Z",
+	"collection_id": "10379044-dcb4fcce-35f8-4835-873f-237e5c2e95d4",
+	"folder_id": 0,
+	"environment_id": "2d4fcdb1-a43e-4e1f-81aa-8b5b53201351",
+	"totalPass": 1086,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "ae35ce81-4006-49d0-aa01-fa941e784ddc",
+			"name": "6_currency",
+			"time": 742,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"send request test is OK": true
+			},
+			"testPassFailCounts": {
+				"send request test is OK": {
+					"pass": 600,
+					"fail": 0
+				}
+			},
+			"times": [
+				1005,
+				1034,
+				1161,
+				1015,
+				1028,
+				1072,
+				1132,
+				1090,
+				1276,
+				1110,
+				1061,
+				956,
+				1026,
+				1103,
+				815,
+				1035,
+				785,
+				1104,
+				893,
+				888,
+				851,
+				779,
+				902,
+				1069,
+				791,
+				1074,
+				890,
+				1071,
+				887,
+				889,
+				995,
+				822,
+				808,
+				870,
+				952,
+				841,
+				880,
+				872,
+				850,
+				878,
+				850,
+				866,
+				1090,
+				754,
+				1115,
+				897,
+				815,
+				751,
+				981,
+				836,
+				1186,
+				660,
+				644,
+				913,
+				703,
+				623,
+				692,
+				847,
+				1838,
+				797,
+				658,
+				671,
+				878,
+				749,
+				736,
+				745,
+				760,
+				808,
+				704,
+				769,
+				734,
+				884,
+				789,
+				844,
+				729,
+				750,
+				844,
+				990,
+				710,
+				672,
+				812,
+				727,
+				768,
+				826,
+				789,
+				792,
+				683,
+				602,
+				873,
+				738,
+				667,
+				705,
+				764,
+				617,
+				590,
+				715,
+				782,
+				758,
+				651,
+				855,
+				671,
+				870,
+				801,
+				711,
+				716,
+				920,
+				773,
+				708,
+				890,
+				1030,
+				1070,
+				872,
+				769,
+				801,
+				1005,
+				721,
+				674,
+				750,
+				721,
+				731,
+				748,
+				809,
+				653,
+				694,
+				805,
+				657,
+				598,
+				735,
+				800,
+				1523,
+				965,
+				1113,
+				988,
+				975,
+				1257,
+				1469,
+				1311,
+				967,
+				1062,
+				1015,
+				1108,
+				1045,
+				1246,
+				954,
+				955,
+				1033,
+				1058,
+				1055,
+				1085,
+				966,
+				1044,
+				969,
+				1122,
+				933,
+				1169,
+				900,
+				824,
+				837,
+				878,
+				1019,
+				1003,
+				970,
+				1127,
+				903,
+				824,
+				1097,
+				810,
+				915,
+				940,
+				764,
+				891,
+				877,
+				926,
+				1136,
+				812,
+				939,
+				1215,
+				962,
+				855,
+				737,
+				781,
+				787,
+				907,
+				915,
+				793,
+				952,
+				889,
+				852,
+				836,
+				834,
+				870,
+				753,
+				886,
+				776,
+				824,
+				819,
+				1046,
+				860,
+				1132,
+				967,
+				794,
+				869,
+				786,
+				855,
+				947,
+				986,
+				803,
+				849,
+				751,
+				704,
+				828,
+				980,
+				826,
+				780,
+				1103,
+				1000,
+				926,
+				911,
+				806,
+				805,
+				743,
+				887,
+				1241,
+				747,
+				887,
+				859,
+				1035,
+				880,
+				945,
+				1087,
+				1192,
+				1043,
+				987,
+				999,
+				1467,
+				1038,
+				1387,
+				1159,
+				1039,
+				1004,
+				1473,
+				1025,
+				1083,
+				923,
+				978,
+				1117,
+				1035,
+				848,
+				1007,
+				942,
+				1038,
+				982,
+				862,
+				834,
+				997,
+				1125,
+				2112,
+				1304,
+				1002,
+				1251,
+				1056,
+				1001,
+				1057,
+				1017,
+				931,
+				1070,
+				1007,
+				1049,
+				942,
+				1021,
+				971,
+				1060,
+				1027,
+				877,
+				1171,
+				1138,
+				974,
+				872,
+				1036,
+				1053,
+				1028,
+				1249,
+				1099,
+				1207,
+				1153,
+				999,
+				985,
+				1474,
+				1370,
+				1100,
+				1185,
+				1403,
+				1264,
+				1419,
+				1078,
+				1202,
+				829,
+				979,
+				1027,
+				1090,
+				804,
+				1177,
+				1206,
+				991,
+				1052,
+				1047,
+				1098,
+				1114,
+				1205,
+				1034,
+				1240,
+				980,
+				1240,
+				1195,
+				913,
+				977,
+				892,
+				895,
+				1234,
+				815,
+				863,
+				858,
+				977,
+				844,
+				863,
+				780,
+				985,
+				857,
+				898,
+				884,
+				1160,
+				848,
+				884,
+				841,
+				902,
+				902,
+				745,
+				866,
+				945,
+				1172,
+				809,
+				912,
+				865,
+				807,
+				986,
+				885,
+				877,
+				881,
+				1001,
+				964,
+				761,
+				905,
+				689,
+				873,
+				728,
+				674,
+				690,
+				748,
+				828,
+				742,
+				954,
+				752,
+				684,
+				696,
+				951,
+				753,
+				771,
+				685,
+				845,
+				724,
+				638,
+				728,
+				640,
+				852,
+				577,
+				630,
+				731,
+				682,
+				686,
+				629,
+				649,
+				765,
+				729,
+				824,
+				730,
+				785,
+				745,
+				685,
+				822,
+				788,
+				914,
+				1037,
+				1113,
+				1143,
+				1036,
+				1218,
+				1270,
+				1321,
+				1290,
+				989,
+				1201,
+				1218,
+				1002,
+				1001,
+				1077,
+				810,
+				955,
+				977,
+				1183,
+				1172,
+				1335,
+				1066,
+				1063,
+				1137,
+				1009,
+				1092,
+				1242,
+				1370,
+				999,
+				896,
+				890,
+				1770,
+				821,
+				982,
+				800,
+				752,
+				868,
+				958,
+				840,
+				902,
+				931,
+				753,
+				837,
+				824,
+				1083,
+				1170,
+				771,
+				821,
+				864,
+				921,
+				822,
+				806,
+				932,
+				937,
+				821,
+				943,
+				772,
+				821,
+				797,
+				959,
+				928,
+				1524,
+				774,
+				819,
+				835,
+				716,
+				621,
+				753,
+				773,
+				777,
+				746,
+				967,
+				946,
+				715,
+				836,
+				714,
+				724,
+				728,
+				623,
+				643,
+				717,
+				581,
+				721,
+				685,
+				622,
+				675,
+				672,
+				661,
+				665,
+				654,
+				746,
+				603,
+				873,
+				765,
+				799,
+				652,
+				758,
+				914,
+				742,
+				724,
+				759,
+				679,
+				673,
+				1119,
+				664,
+				683,
+				638,
+				1082,
+				700,
+				773,
+				758,
+				707,
+				981,
+				700,
+				1142,
+				770,
+				682,
+				735,
+				722,
+				706,
+				778,
+				607,
+				933,
+				759,
+				721,
+				751,
+				660,
+				708,
+				717,
+				698,
+				793,
+				751,
+				918,
+				650,
+				643,
+				670,
+				811,
+				799,
+				616,
+				759,
+				731,
+				785,
+				772,
+				619,
+				685,
+				740,
+				1199,
+				1312,
+				1091,
+				967,
+				1241,
+				1167,
+				979,
+				957,
+				951,
+				798,
+				1132,
+				902,
+				894,
+				967,
+				845,
+				1036,
+				836,
+				1140,
+				1266,
+				1099,
+				1001,
+				1066,
+				1126,
+				1168,
+				939,
+				944,
+				983,
+				1247,
+				978,
+				953,
+				1010,
+				643,
+				704,
+				663,
+				765,
+				788,
+				791,
+				691,
+				668,
+				664,
+				828,
+				772,
+				808,
+				879,
+				784,
+				721,
+				693,
+				682,
+				872,
+				885,
+				710,
+				773,
+				681,
+				727,
+				1358,
+				775,
+				680,
+				660,
+				686,
+				636,
+				863,
+				894,
+				685,
+				742
+			],
+			"allTests": [
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				},
+				{
+					"send request test is OK": true
+				}
+			]
+		},
+		{
+			"id": "da862f9a-7ed3-4505-b499-4ba4b700a0a7",
+			"name": "7_curr_byn",
+			"time": 406,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Schema is valid": true,
+				"Body matches string Cur_OfficialRate": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 162,
+					"fail": 0
+				},
+				"Schema is valid": {
+					"pass": 162,
+					"fail": 0
+				},
+				"Body matches string Cur_OfficialRate": {
+					"pass": 162,
+					"fail": 0
+				}
+			},
+			"times": [
+				452,
+				468,
+				547,
+				473,
+				481,
+				390,
+				448,
+				377,
+				505,
+				436,
+				502,
+				380,
+				417,
+				465,
+				541,
+				453,
+				395,
+				344,
+				386,
+				326,
+				393,
+				454,
+				436,
+				294,
+				341,
+				369,
+				992,
+				369,
+				357,
+				457,
+				334,
+				458,
+				460,
+				645,
+				539,
+				455,
+				523,
+				450,
+				382,
+				479,
+				629,
+				474,
+				499,
+				433,
+				403,
+				538,
+				397,
+				529,
+				446,
+				456,
+				325,
+				419,
+				471,
+				404,
+				421,
+				280,
+				396,
+				465,
+				414,
+				449,
+				371,
+				466,
+				377,
+				648,
+				384,
+				505,
+				485,
+				577,
+				469,
+				459,
+				483,
+				463,
+				419,
+				471,
+				469,
+				456,
+				567,
+				476,
+				452,
+				455,
+				459,
+				386,
+				453,
+				531,
+				366,
+				503,
+				594,
+				449,
+				429,
+				428,
+				470,
+				390,
+				422,
+				413,
+				404,
+				371,
+				495,
+				384,
+				376,
+				460,
+				476,
+				447,
+				420,
+				364,
+				424,
+				331,
+				522,
+				441,
+				308,
+				417,
+				448,
+				552,
+				465,
+				446,
+				514,
+				513,
+				431,
+				426,
+				535,
+				523,
+				418,
+				338,
+				497,
+				341,
+				528,
+				411,
+				508,
+				480,
+				293,
+				411,
+				476,
+				360,
+				363,
+				317,
+				312,
+				391,
+				317,
+				382,
+				438,
+				392,
+				312,
+				561,
+				611,
+				336,
+				393,
+				398,
+				426,
+				317,
+				435,
+				484,
+				531,
+				468,
+				463,
+				623,
+				450,
+				394,
+				398,
+				356,
+				449,
+				406,
+				376,
+				406
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				},
+				{
+					"Status code is 200": true,
+					"Schema is valid": true,
+					"Body matches string Cur_OfficialRate": true
+				}
+			]
+		}
+	],
+	"count": 600,
+	"totalTime": 613999,
+	"collection": {
+		"requests": [
+			{
+				"id": "ae35ce81-4006-49d0-aa01-fa941e784ddc",
+				"method": "POST"
+			}
+		]
+	}
+}
