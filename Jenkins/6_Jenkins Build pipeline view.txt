@@ -1,0 +1,18 @@
+Add in Plugin Manager 'Build Pipeline Plugin'
+Add new Item Third Job (remember that we have simple and second job)
+	Trigger Build -> Build after other projects are built = Second
+	Save
+New View 'FirstPipelineView' and check Build Pipeline View
+	Upstream / downstream config -> Select Initial Job -> Simple Job -> Save -> Run
+
+Config -> Display Options -> N of displayed builds = 10 (as example)
+
+Green = Done
+Blue = In progress
+
+* the whole story is clearly visible
+* building our own test chain of actions - task chain - CI (continuous integration)
+* the console is called quickly
+* view on monitor for programmers
+
+unit tests -> web service tests -> UI tests = CI = Pipeline View

@@ -1,0 +1,11 @@
+Books:
+	Jenkins. The Definitive Guide by John Smart
+	Jenkins 2: Up and Running by Brent Laster
+https://jenkins.io/ docs (plugins index)
+
+
+Jenkins Test:
+https://forms.gle/jWrFsKGvPrZYwSPX9
+
+Jenkins Practical exercises:
+https://docs.google.com/document/d/193mOkRSufvhUlsUDgpZGKFHUiFob5iL0AdoZkuTlIAg/

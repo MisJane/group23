@@ -1,0 +1,29 @@
+New freestyle Param Item
+General -> This projest is patametrized 
+	example: Choice parameter:
+		name = environment
+		choices = 	dev
+					qa
+					pre-prod
+	build with parameter
+
+Используется параметр переменная среды внутри Items
+
+Build
+	execute windows batch command
+		ECHO %environment%
+			build with parameter pre-prod
+			=> ECHO pre-prod in console
+
+if cron => 1st parameter
+
+
+or
+add string parameter
+	name = testSuite
+	default value = smoke
+build with parameter => parameter, name of tests (smoke, regression...)
+
+
+another uniq parameters (встроенные переменные среды)
+http://localhost:port/env-vars.html/
