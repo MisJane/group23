@@ -1,0 +1,3 @@
+Stop Jenkins
+cmd sc delete jenkins
+delete dir Jenkins

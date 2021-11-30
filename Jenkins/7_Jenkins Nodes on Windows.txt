@@ -1,0 +1,27 @@
+node - to connect to the concept server.
+
+application: if there are a lot of items - to increase speed or if there is not enough power, for example. you can use different browsers on different operating systems. can be run in parallel
+
+new node
+	name = hostname
+	Permanent Agent
+	Configuration
+		Ramote root directory = new file (as example C:\Jenkins\slave)
+		Labels = windows 10 x64/iOS ... chrome/ff..
+		usage = for all or for 1
+		Node properties = Environment variables and Tool locations (for Git & Maven)
+
+
+Configure - Global security
+	Agents -> TCP port for inbound agents -> Random
+	-> Manage nodes and clouds -> hostname -> Launch agent by connecting it to the controller
+	save agent.jar into path 'slave'
+	copy text 'java -jar...'
+
+cmd cd C:\Jenkins\slave and paste text
+Agent is connected
+
+go to param of GitHub Item -> Restrict where this project can be run = 'win10' or 'chrome' or hostname
+
+in console will be 'building remotely' with hostname and labels 
+	and in path slave you can see new workspace from GitHub
