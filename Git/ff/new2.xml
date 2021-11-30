@@ -1,0 +1,11 @@
+ <person>
+	<name>Evgeniya</name>
+	<age>39</age>
+	<animals>1</animals>
+	<salary>1000</salary>
+	<movie>Schindler's List</movie>
+	<serial>Better call Saul</serial>
+	<meal>lasagna</meal>
+	<season>Summer</season>
+	<country>Portugal</country>
+</person>
