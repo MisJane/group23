@@ -1,0 +1,9 @@
+Using Android Studio user guide: 
+  Install AS
+  Open ToDoList.zip like project
+  Build APK
+  Open in emulator
+  take a screenshot
+Install this APK in your real testing device
+  Open in your device
+  take a screenshot
