@@ -1,8 +1,0 @@
-Install plugin thinBackup
-Settings of thinBackup (menu)
-	Backup directory = //server/folder/
-	cron (schedule for full and diff)
-	and what would you like to backup
-
-install next plugin Job Configuration History
- 

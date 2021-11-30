@@ -1,4 +1,0 @@
-1. Create a node on master (from Jenkins UI)
-2. Connect linux slave and install OpenJDK (connect to linux and in shell 'java -version' (text will include OpenJDK)
-3. Wget agent.jar from master node (in shell wget agent.jar http://ip:port/pathTOjar/agent.jar and then paste text 'java -jar...')
-4. Run slave from command line

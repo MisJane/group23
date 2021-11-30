@@ -1,8 +1,0 @@
-кто выполнил 3-е ДЗ в Postman, вот 4-е ДЗ:
-Изучите Newman postman и запустите тесты из 2-й дз из командной строки
-https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
-
-Newman install (Node.js install (or only npm install)->npm install->npm install -g newman ->done)
-in Postman share collection (3_2_API.postman_collection.json) and environment (HW_API_Postman_env_23.postman_environment.json)
-in CLI->cd file or url->newman run 3_2_API.postman_collection.json -e HW_API_Postman_env_23.postman_environment.json
-done !->
